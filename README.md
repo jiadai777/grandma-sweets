@@ -1,4 +1,5 @@
 # Grandma's Sweets Project
+This project is deployed at: https://grandma-sweets-58c413.netlify.com/
 
 ## Key skills:
 - HTML 5
